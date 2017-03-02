@@ -2,6 +2,8 @@
 ## Goals
 I intend the Carbon Development process to create efficient organization for teams of people building software projects. Carbon Development is inspired by an idea I think of as [Problem-Driven Development](../Problem-Driven Development), which fundamentally views the progress of teams by the types of problems that they solve.
 
+Carbon Development focuses on breaking projects into tasks then accomplishing tasks. Thus, the framework emphasizes the importance of problem-solving around specific tasks. In sum, Carbon Development views every project as a collection of tasks in need of completion and a set of problems associated with each task. Tasks are the foundation of Carbon Development; everything else is built around them.
+
 ## Components
 
 ### Task-Based Containers
