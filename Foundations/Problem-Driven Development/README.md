@@ -1,5 +1,13 @@
-#Problem-Driven Development
+# Problem-Driven Development
+
+## About
 
 We should view the idle time of programmers as a loss to problem-solving time. Since efficient teams should push the limits of current technologies, inventing new ones as necessary, we should view programming as a cycle of problem-solving, pushing the limits of that solution, then creating better solutions. Those solutions then make new technologies and processes available that did not previously exist, which in turn makes available new capabilities that did not previously exist. These new capabilities inspire new possibilities, which then present new problems for teams to solve. This process fundamentally drives development in the world of computer science. I’ll call this paradigm *problem-driven development*. 
 
 Problem-driven development has a lot in common with the idea of test-driven development (TDD). In TDD, developers design tests and develop until programs pass those tests. After a program passes a test, developers work on implementing new features by creating new tests for those features to pass. In problem-driven development, developers work until they solve a problem, then go about pushing their technology until new problems arise. While test-driven development describes a process by which people can create software, problem-driven development describes a process by which teams can *plan* to create software.
+
+## Why?
+
+Conceptually speaking, Problem-Driven Development makes sense when measuring progress in the computer science field. Producing computer science projects —programming— requires taking general-purpose tools built with certain sets of tasks in mind and fitting them over the contours of an inescapably unique set of goals — your project. Therefore, even the most fundamental software projects require solving this type of *fitting problem* wherein general purpose tools come together to produce specific, fine-tuned results. The forces of nature, so to speak, act against the developer when the developer is called to perform somewhat of a miracle in the art of drawing unique order from general instruments. 
+
+Admitting that software development is first and foremost a process of overcoming obstacles —of solving problems— provides the best conceptual framework upon which to construct a theory of progress. Indeed, any theory that does not at its foundations admit of this requirement will inevitably fail to properly orient itself around the practical demands of software developers.
