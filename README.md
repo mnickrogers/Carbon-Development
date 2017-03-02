@@ -1,0 +1,3 @@
+# Carbon Development
+
+Carbon development outlines a set of ideals for managing software development teams. This body of work is still a work-in-progress, but I will update it regularly. My goal here is to develop a better conceptual framework for organizing software development teams that meet general-purpose needs of *any* software development project while also creating a robust enough framework to guide decisions in times where the process needs to be more tailored to a unique task.
