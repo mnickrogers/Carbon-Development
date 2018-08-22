@@ -1,10 +1,10 @@
-#Pair Programming
+# Pair Programming
 
 We should, I believe, reject pair programming as a general practice within organizations.
 
 Pair programming describes the process of requiring two programmers work at a single workstation on a single project at once. As one programmer, usually referred to as the *driver*, writes code, the other, usually called the *observer* or the *navigator* looks on.
 
-##Idle Time
+## Idle Time
 
 Recall [Problem-Driven Development](../../Foundations/Problem-Driven Development).
 
@@ -12,4 +12,4 @@ Programmers can work quickly on mundane tasks. Good programmers, for the most pa
 
 There is an additional problem with idle time, too: the complexity of projects is often unplanned. Consequently, tasks that teams thought might take more time may turn out to take little time at all and tasks that teams thought might take little time may turn out to be more complex as new problems arise. Carbon Development does not condemn cooperative programming. However, it rejects the notion that programming should be paired by default. By encouraging contained groups centered on specific sets of tasks, Carbon Development strives for dynamic collaboration as collaboration becomes necessary. 
 
-##Reliance
+## Reliance
